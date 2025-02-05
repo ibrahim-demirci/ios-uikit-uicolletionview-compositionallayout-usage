@@ -19,7 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		0AB821902D52B7E600777283 /* ColletionView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ColletionView.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0AB821902D52B7E600777283 /* CollectionView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CollectionView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0AB821932D52B7E600777283 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0AB821952D52B7E600777283 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		0AB821972D52B7E600777283 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		0AB821872D52B7E600777283 = {
 			isa = PBXGroup;
 			children = (
-				0AB821922D52B7E600777283 /* ColletionView */,
+				0AB821922D52B7E600777283 /* CollectionView */,
 				0AB821912D52B7E600777283 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -54,12 +54,12 @@
 		0AB821912D52B7E600777283 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0AB821902D52B7E600777283 /* ColletionView.app */,
+				0AB821902D52B7E600777283 /* CollectionView.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		0AB821922D52B7E600777283 /* ColletionView */ = {
+		0AB821922D52B7E600777283 /* CollectionView */ = {
 			isa = PBXGroup;
 			children = (
 				0AB821AC2D52C99E00777283 /* Model */,
@@ -73,7 +73,7 @@
 				0AB8219E2D52B7E700777283 /* LaunchScreen.storyboard */,
 				0AB821A12D52B7E700777283 /* Info.plist */,
 			);
-			path = ColletionView;
+			path = CollectionView;
 			sourceTree = "<group>";
 		};
 		0AB821A72D52C63C00777283 /* Cell */ = {
@@ -95,9 +95,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		0AB8218F2D52B7E600777283 /* ColletionView */ = {
+		0AB8218F2D52B7E600777283 /* CollectionView */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0AB821A42D52B7E700777283 /* Build configuration list for PBXNativeTarget "ColletionView" */;
+			buildConfigurationList = 0AB821A42D52B7E700777283 /* Build configuration list for PBXNativeTarget "CollectionView" */;
 			buildPhases = (
 				0AB8218C2D52B7E600777283 /* Sources */,
 				0AB8218D2D52B7E600777283 /* Frameworks */,
@@ -107,9 +107,9 @@
 			);
 			dependencies = (
 			);
-			name = ColletionView;
+			name = CollectionView;
 			productName = ColletionView;
-			productReference = 0AB821902D52B7E600777283 /* ColletionView.app */;
+			productReference = 0AB821902D52B7E600777283 /* CollectionView.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -127,7 +127,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 0AB8218B2D52B7E600777283 /* Build configuration list for PBXProject "ColletionView" */;
+			buildConfigurationList = 0AB8218B2D52B7E600777283 /* Build configuration list for PBXProject "CollectionView" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -140,7 +140,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				0AB8218F2D52B7E600777283 /* ColletionView */,
+				0AB8218F2D52B7E600777283 /* CollectionView */,
 			);
 		};
 /* End PBXProject section */
@@ -322,7 +322,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = KTL634GQKL;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = ColletionView/Info.plist;
+				INFOPLIST_FILE = CollectionView/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -333,7 +333,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.ibrahimdemirci.ColletionView;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ibrahimdemirci.CollectionView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -350,7 +350,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = KTL634GQKL;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = ColletionView/Info.plist;
+				INFOPLIST_FILE = CollectionView/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -361,7 +361,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.ibrahimdemirci.ColletionView;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ibrahimdemirci.CollectionView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -372,7 +372,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0AB8218B2D52B7E600777283 /* Build configuration list for PBXProject "ColletionView" */ = {
+		0AB8218B2D52B7E600777283 /* Build configuration list for PBXProject "CollectionView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0AB821A22D52B7E700777283 /* Debug */,
@@ -381,7 +381,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0AB821A42D52B7E700777283 /* Build configuration list for PBXNativeTarget "ColletionView" */ = {
+		0AB821A42D52B7E700777283 /* Build configuration list for PBXNativeTarget "CollectionView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0AB821A52D52B7E700777283 /* Debug */,
