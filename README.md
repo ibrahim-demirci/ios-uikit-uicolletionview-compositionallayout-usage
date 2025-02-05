@@ -26,5 +26,5 @@ bash
 Copy
 Edit
 git clone https://github.com/ibrahim-demirci/uicollectionview-compositionallayout-usage.git
-Open the project in Xcode and run it.
+Open the project in Xcode and run it. 
 
